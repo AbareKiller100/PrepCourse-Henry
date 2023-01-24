@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+Proyecto prueba de creación de repositorio y su clonación desde Github al escitorio local.
